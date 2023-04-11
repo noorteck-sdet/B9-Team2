@@ -33,7 +33,7 @@ public class DemoTest {
 		System.out.println("pegah");
 		
 		System.out.println("Rimsky");
-
+		System.out.println("Rimsky2");
 //bye
 
 	}
