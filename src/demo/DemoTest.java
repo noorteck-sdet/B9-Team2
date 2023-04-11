@@ -6,6 +6,6 @@ public class DemoTest {
 		
 		System.out.println("Team...");
 		
-		String name ="Tina";
+		String name1 ="Tina";
 	}
 }
