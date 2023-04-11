@@ -20,5 +20,6 @@ public class DemoTest {
 >>>>>>> branch 'master' of https://github.com/noorteck-sdet/B9-Team2.git
 >>>>>>> branch 'master' of https://github.com/noorteck-sdet/B9-Team2.git
 	System.out.println("pegahhhh");
+		System.out.println("pegah");
 	}
 }
