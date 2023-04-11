@@ -6,6 +6,6 @@ public class DemoTest {
 		
 		System.out.println("Team...");
 		
-		System.out.println("Meno");
+		System.out.println("Menoooo");
 	}
 }
