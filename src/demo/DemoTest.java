@@ -8,7 +8,7 @@ public class DemoTest {
 //<<<<<<< HEAD
 		System.out.println("karzan");
 		System.out.println("Wirya");
-		System.out.println("hiiiiiiii");
+		System.out.println("hyyyyy");
 //=======
 //<<<<<<< HEAD
 		
