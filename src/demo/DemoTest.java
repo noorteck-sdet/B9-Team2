@@ -6,5 +6,6 @@ public class DemoTest {
 		
 		System.out.println("Team...");
 		System.out.println("karzan");
+		System.out.println("Wirya");
 	}
 }
