@@ -5,26 +5,36 @@ public class DemoTest {
 	public static void main(String[] args) {
 		
 		System.out.println("Team...");
-//<<<<<<< HEAD
+
+
+		
+		String name2 ="Tina";
+
+
+		
+		System.out.println("Menoooo");
+
+
 		System.out.println("karzan");
 		System.out.println("Wirya");
+<<<<<<< HEAD
 		System.out.println("hyyyyy");
 //=======
 //<<<<<<< HEAD
+=======
+
+
+>>>>>>> branch 'master' of https://github.com/noorteck-sdet/B9-Team2.git
 		
 		String firstName = "Naz";
-//=======
-//<<<<<<< HEAD
-		
+
 		
 		String car = "toyota";
 		
 		
-
 		System.out.println("Luis");
-		//test
-//>>>>>>> branch 'master' of https://github.com/noorteck-sdet/B9-Team2.git
-//>>>>>>> branch 'master' of https://github.com/noorteck-sdet/B9-Team2.git
-//>>>>>>> branch 'master' of https://github.com/noorteck-sdet/B9-Team2.git
+
+//hii
+
 	}
 }
