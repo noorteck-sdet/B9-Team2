@@ -38,6 +38,8 @@ public class DemoTest {
 		
 		System.out.println("Rimsky");
 		System.out.println("Rimsky2");
+		
+		System.out.println("Tina");
 //bye
 
 	}
