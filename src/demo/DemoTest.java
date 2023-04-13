@@ -40,6 +40,8 @@ public class DemoTest {
 		System.out.println("Rimsky2");
 		
 		System.out.println("Tina");
+		
+		System.out.println("TINA2");
 //bye
 
 	}
