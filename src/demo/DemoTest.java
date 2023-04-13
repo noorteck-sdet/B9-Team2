@@ -6,6 +6,8 @@ public class DemoTest {
 		
 		System.out.println("Team...");
 
+		System.out.println("pegah");
+
 		
 		String name2 ="Tina";
 
@@ -16,23 +18,27 @@ public class DemoTest {
 
 		System.out.println("karzan");
 		System.out.println("Wirya");
-//=======
+
+		System.out.println("hyyyyy");
 
 		
 		String firstName = "Naz";
-//=======
 
-		
 		
 		String car = "toyota";
 		
-		
-
 		System.out.println("Luis");
 		
 
 		System.out.println("Tina");
 
+
+	System.out.println("pegahhhh");
+		System.out.println("pegah");
+		
+		System.out.println("Rimsky");
+		System.out.println("Rimsky2");
+//bye
 
 	}
 }
